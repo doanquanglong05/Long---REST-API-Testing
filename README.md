@@ -48,10 +48,9 @@ Các request được tạo trong Collection `Long - REST API Testing`. Sau khi 
 
 - **Kết quả sau khi kiểm thử:**
 
+![TC01 - Get All Posts](./images/TC01-get-all-posts.png)
 
 
-
-> Ảnh cần thể hiện Method GET, URL `/posts`, Status Code `200 OK` và Response chứa danh sách bài viết.
 
 ---
 
@@ -75,9 +74,9 @@ Các request được tạo trong Collection `Long - REST API Testing`. Sau khi 
 
 - **Kết quả sau khi kiểm thử:**
 
-📷 **CHÈN ẢNH TC02 - GET POST BY ID VÀO ĐÂY**
+![TC02 - Get Post By ID](./images/TC02-get-post-by-id.png)
 
-> Ảnh cần thể hiện Method GET, URL `/posts/1`, Status Code và Response của bài viết ID 1.
+
 
 ---
 
@@ -101,9 +100,7 @@ Các request được tạo trong Collection `Long - REST API Testing`. Sau khi 
 
 - **Kết quả sau khi kiểm thử:**
 
-📷 **CHÈN ẢNH TC03 - INVALID POST VÀO ĐÂY**
-
-> Ảnh cần thể hiện Method GET, URL `/posts/9999`, Status Code `404 Not Found` và Response `{}`.
+![TC03 - Invalid Post](./images/TC03-invalid-post.png)
 
 ---
 
@@ -137,9 +134,8 @@ Các request được tạo trong Collection `Long - REST API Testing`. Sau khi 
 
 - **Kết quả sau khi kiểm thử:**
 
-📷 **CHÈN ẢNH TC04 - CREATE POST VÀO ĐÂY**
+![TC04 - Create Post](./images/TC04-create-post.png)
 
-> Ảnh cần thể hiện Method POST, URL `/posts`, Body JSON, Status Code và Response trả về.
 
 ---
 
@@ -174,9 +170,8 @@ Các request được tạo trong Collection `Long - REST API Testing`. Sau khi 
 
 - **Kết quả sau khi kiểm thử:**
 
-📷 **CHÈN ẢNH TC05 - UPDATE POST VÀO ĐÂY**
+![TC05 - Update Post](./images/TC05-update-post.png)
 
-> Ảnh cần thể hiện Method PUT, URL `/posts/1`, Body JSON, Status Code và Response.
 
 ---
 
@@ -200,9 +195,7 @@ Các request được tạo trong Collection `Long - REST API Testing`. Sau khi 
 
 - **Kết quả sau khi kiểm thử:**
 
-📷 **CHÈN ẢNH TC06 - DELETE POST VÀO ĐÂY**
-
-> Ảnh cần thể hiện Method DELETE, URL `/posts/1`, Status Code và Response trả về.
+![TC06 - Delete Post](./images/TC06-delete-post.png)
 
 ---
 
