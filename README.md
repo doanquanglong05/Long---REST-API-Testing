@@ -1,4 +1,4 @@
-<img width="980" height="532" alt="image" src="https://github.com/user-attachments/assets/cf0ab4ea-7048-41ea-9b25-7c19f0dffe5e" /># BÁO CÁO KIỂM THỬ API
+# BÁO CÁO KIỂM THỬ API
 
 **Tên Dự Án:** Long - REST API Testing
 
